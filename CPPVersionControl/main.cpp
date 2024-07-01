@@ -1,5 +1,7 @@
 #include <iostream>
 int main()
 {
-std::cout << "Main functionNew\n\n";
+
+std::cout << "Hello world\n\n";
+
 }
